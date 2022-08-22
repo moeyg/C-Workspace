@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     // print formatted
     int num;
     int x, y, z;
