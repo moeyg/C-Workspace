@@ -15,4 +15,6 @@ int main()
 
     // error: cannot assign to variable 'num_const' with const-qualified type 'const int'
     num_const = 1; // 재할당 X
+
+    return 0;
 } 
