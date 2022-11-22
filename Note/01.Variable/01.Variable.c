@@ -1,10 +1,12 @@
 int main() 
 {
-    int x; // Declaration
+    // Declaration
+    int x;
     int y;
     int z;
 
-    x = 1; // Assignment
+    // Assignment
+    x = 1;
     y = 2;
     
     z = x + y;
