@@ -39,4 +39,6 @@ int main(void)
 
     printf("%d\n", what_day_is_today); // 2
     printf("%d\n", what_month_is_now); // 10
+
+    return 0;
 }
