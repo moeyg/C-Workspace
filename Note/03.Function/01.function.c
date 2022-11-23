@@ -7,7 +7,7 @@
 
 #include <stdio.h>
 
-// Prototyping, Function declaration
+// Prototyping, Function declaration, Forward declaration
 // 함수의 구현체 없이 함수 원형(함수 이름, 반환형, 매개변수 자료형)만 선언
 // 컴파일 링크 단계에서 실제 코드 위치를 찾아 메꿔준다.
 // 보통은 파일의 제일 위에 선언하거나 헤더 파일에 선언한다.
