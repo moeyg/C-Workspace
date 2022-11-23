@@ -9,6 +9,8 @@ int main(void)
     int* address = &variable;
     // 역참조 연산자
     int pointer = *address;
+
+    return 0;
 }
 
 // & : 주소 연산자
