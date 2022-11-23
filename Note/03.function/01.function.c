@@ -8,17 +8,19 @@
 #include <stdio.h>
 
 // Prototyping, Function declaration
-void greeting(void);
+void foo(void);
 
 int main() 
 {
-    greeting();
-    greeting();
-    greeting();
+    foo();
+    foo();
+    foo();
+
+    return 0;
 }
 
 // Function definition
-void greeting(void) 
+void foo(void) 
 {
     printf("Hello World!\n");
 
