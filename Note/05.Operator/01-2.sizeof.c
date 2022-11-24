@@ -13,7 +13,7 @@ int main(void)
     char char_array[42];
 
     size_t size_array = sizeof(char_array); // 42
-    size_t size_array_by_func = get_char_array_size(char_array); // 4
+    size_t size_array_by_func = get_char_array_size(char_array); // 1
 
     return 0;
 }
