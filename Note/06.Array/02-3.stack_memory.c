@@ -17,7 +17,7 @@ int main(void)
     char char_array[42];
 
     // 배열의 크기를 42로 지정해도 컴파일 시에는 char_array[]와 동일하다.
-    size_t size_array_by_func = get_char_array_size(char_array); // 4
+    size_t size_array_by_func = get_char_array_size(char_array); // 1
     // 따라서 4를 반환한 이유는 배열의 시작 위치(주소)를 스택에 넣어주기 때문이다.
     // 포인터 char 데이터형의 크기 = 1 byte 이므로 sizeof() 시 1 byte가 나온 것
 
