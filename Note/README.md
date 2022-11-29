@@ -36,8 +36,8 @@
 
 ## 5. [Operator](https://github.com/moeyg/C-Workspace/tree/main/Note/05.Operator)
 
-- [size_of - 1](https://github.com/moeyg/C-Workspace/blob/main/Note/05.Operator/01-1.sizeof.c)
-- [size_of - 2](https://github.com/moeyg/C-Workspace/blob/main/Note/05.Operator/01-2.sizeof.c)
+- [sizeof - 1](https://github.com/moeyg/C-Workspace/blob/main/Note/05.Operator/01-1.sizeof.c)
+- [sizeof - 2](https://github.com/moeyg/C-Workspace/blob/main/Note/05.Operator/01-2.sizeof.c)
 - [size_t](https://github.com/moeyg/C-Workspace/blob/main/Note/05.Operator/02.size_t.c)
 - [dereference](https://github.com/moeyg/C-Workspace/blob/main/Note/05.Operator/03.dereference.c)
 - [structure](https://github.com/moeyg/C-Workspace/blob/main/Note/05.Operator/04.structure.c)
