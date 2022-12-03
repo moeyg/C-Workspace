@@ -6,11 +6,15 @@
 
 void save_address(void);
 void change_pointer(void);
+void print_address(int* pointer);
 
 int main(void)
 {
+    int pointer = 42;
+
     save_address();
     change_pointer();
+    print_address(&pointer);
 
     return 0;
 }
@@ -54,4 +58,13 @@ void change_pointer(void)
     pointer = &b;
     
     printf("%p : %c\n", (void*)pointer, *pointer); // 0x16f4b744e : b
+}
+
+// 함수 매개 변수로 사용되는 포인터
+void print_address(int* pointer)
+{
+    // 매개 변수로 받은 포인터의 주소 출력
+    printf("pointer address : %p\n", (void*)pointer); // 0x16b213468
+    // 매개 변수로 받은 포인터의 값 출력
+    printf("pointer value : %d\n", *pointer); // 42
 }
