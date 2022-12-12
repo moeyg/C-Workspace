@@ -34,4 +34,6 @@ int main(void)
     // 포인터 배열 요소의 offset - 데이터가 저장되어 있는게 아니라 주소만 저장되어 있기 때문에 1씩 offset
     printf("pointer_nums[2]'s offset from pointer_nums[0] : %ld\n", &pointer_nums[2] - &pointer_nums[0]); // 2
     printf("pointer_nums[1]'s offset from pointer_nums[0] : %ld\n", &pointer_nums[1] - &pointer_nums[0]); // 1
+
+    return 0;
 }

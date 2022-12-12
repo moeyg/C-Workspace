@@ -46,4 +46,6 @@ int main(void)
     // 따라서 pointer == 135, num == 134
     printf("*pointer : %d\n", *pointer); // *pointer : 135
     printf("num : %d\n", num); // num : 134
+
+    return 0;
 }

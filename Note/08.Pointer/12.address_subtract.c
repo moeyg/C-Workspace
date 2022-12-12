@@ -11,4 +11,6 @@ int main(void)
 
     sub = &nums[4] - &nums[0];
     printf("%d\n", sub); // 4
+
+    return 0;
 }

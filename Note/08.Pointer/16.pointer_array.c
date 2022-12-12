@@ -11,4 +11,6 @@ int main(void)
     num_pointers[0] = nums1;
     num_pointers[1] = nums2;
     num_pointers[2] = nums3;
+
+    return 0;
 }

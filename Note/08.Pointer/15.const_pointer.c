@@ -23,4 +23,6 @@ int main(void)
     // 주소와 값을 보호하는 const
     // c is a const pointer to const char
     const char* const c = &ch;
+
+    return 0;
 }

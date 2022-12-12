@@ -13,4 +13,6 @@ int main(void)
     printf("%d\n", pointer[3]); // 7
     // 배열의 첨자 연산자[] 도 포인터에 쓸 수 있다.
     // nums[3] == pointer[3] == *(pointer + 3)
+
+    return 0;
 }

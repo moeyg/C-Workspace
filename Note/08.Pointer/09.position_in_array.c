@@ -28,4 +28,6 @@ void print_next_address(int array[])
     // 포인터에 정수 n을 더하거나 빼면 언제나 "sizeof(자료형) * n" 만큼 메모리 주소를 이동한다.
     printf("%p\n", pointer + 3); // 0x16d08f45c
     printf("%p\n", &array[3]); // 0x16d08f45c
+
+    return 0;
 }
