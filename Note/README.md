@@ -47,7 +47,7 @@
 ## 6. [Array](https://github.com/moeyg/C-Workspace/tree/main/Note/06.Array)
 
 - [array](https://github.com/moeyg/C-Workspace/blob/main/Note/06.Array/01.array.c)
-- [stack memory - 1](https://github.com/moeyg/C-Workspace/blob/main/Note/06.Array/02-1.stack_memory.c)
+- [stack memory - 1](https://github.com/moeyg/C-Workspace/blob/main/Note/06.Array/02-1.stack_memory.md)
 - [stack memory - 2](https://github.com/moeyg/C-Workspace/blob/main/Note/06.Array/02-2.stack_memory.c)
 - [stack memory - 3](https://github.com/moeyg/C-Workspace/blob/main/Note/06.Array/02-3.stack_memory.c)
 - [multi dimensional arrays](https://github.com/moeyg/C-Workspace/blob/main/Note/06.Array/03.multi-dimensional_arrays.c)
@@ -70,7 +70,26 @@
 
 <br>
 
-## 8. [Pointer]()
+## 8. [Pointer](https://github.com/moeyg/C-Workspace/tree/main/Note/08.Pointer)
+
+- [address operator](https://github.com/moeyg/C-Workspace/blob/main/Note/08.Pointer/01.address_operator.c)
+- [pointer](https://github.com/moeyg/C-Workspace/blob/main/Note/08.Pointer/02.pointer.c)
+- [dereference operator - 1](https://github.com/moeyg/C-Workspace/blob/main/Note/08.Pointer/03-1.dereference_operator.c)
+- [dereference operator - 2](https://github.com/moeyg/C-Workspace/blob/main/Note/08.Pointer/03-2.dereference_operator.c)
+- [swap](https://github.com/moeyg/C-Workspace/blob/main/Note/08.Pointer/04.swap.c)
+- [dangling pointer](https://github.com/moeyg/C-Workspace/blob/main/Note/08.Pointer/05.dangling_pointer.c)
+- [NULL pointer](https://github.com/moeyg/C-Workspace/blob/main/Note/08.Pointer/06.null_pointer.c)
+- [pointer comparison](https://github.com/moeyg/C-Workspace/blob/main/Note/08.Pointer/07.comparison.c)
+- [pointer size](https://github.com/moeyg/C-Workspace/blob/main/Note/08.Pointer/08.pointer_size.c)
+- [pointer position in array](https://github.com/moeyg/C-Workspace/blob/main/Note/08.Pointer/09.position_in_array.c)
+- [array element access by pointer](https://github.com/moeyg/C-Workspace/blob/main/Note/08.Pointer/10.access_array.c)
+- [int memory viewer (casting)](https://github.com/moeyg/C-Workspace/blob/main/Note/08.Pointer/11.int_memory_viewer.c)
+- [address subtraction](https://github.com/moeyg/C-Workspace/blob/main/Note/08.Pointer/12.address_subtract.c)
+- [difference between pointer and array](https://github.com/moeyg/C-Workspace/blob/main/Note/08.Pointer/13.difference_pointer_array.c)
+- [operator priority](https://github.com/moeyg/C-Workspace/blob/main/Note/08.Pointer/14.operator_priority.c)
+- [const in pointer](https://github.com/moeyg/C-Workspace/blob/main/Note/08.Pointer/15.const_pointer.c)
+- [pointer array](https://github.com/moeyg/C-Workspace/blob/main/Note/08.Pointer/16.pointer_array.c)
+- [2D array](https://github.com/moeyg/C-Workspace/blob/main/Note/08.Pointer/17.2D_array.c)
 
 <br>
 
