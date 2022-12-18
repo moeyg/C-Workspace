@@ -1,7 +1,7 @@
 // Formatted string
 // 일반적인 서식 문자열 형식
 // 일반적으로 % 뒤에 최대 4개의 지정자를 가질 수 있다.
-// %[flag] [width] [.numeric precision | .string min/max output count] [length] format specifier
+// %[flag] [width] [.numeric precision | .string min/max output count] [length modifier] format specifier
 
 // 1. flag (플래그) - 선택
 // 2. width (너비) - 선택
