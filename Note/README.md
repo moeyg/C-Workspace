@@ -1,5 +1,9 @@
 # C Note List
 
+C 정리 목차 입니다.
+
+<br>
+
 ## 1. [Variable](https://github.com/moeyg/C-Workspace/tree/main/Note/01.Variable)
 
 - [variable](https://github.com/moeyg/C-Workspace/blob/main/Note/01.Variable/01.variable.c)
@@ -98,3 +102,17 @@
 - [if](https://github.com/moeyg/C-Workspace/blob/main/Note/09.Control/01.if.c)
 - [switch](https://github.com/moeyg/C-Workspace/blob/main/Note/09.Control/02.switch.c)
 - [loop](https://github.com/moeyg/C-Workspace/blob/main/Note/09.Control/03.loop.c)
+
+<br>
+
+## 10. [String](https://github.com/moeyg/C-Workspace/tree/main/Note/10.string)
+
+- [C style string](https://github.com/moeyg/C-Workspace/blob/main/Note/10.string/01.c_string.c)
+- [strlen](https://github.com/moeyg/C-Workspace/blob/main/Note/10.string/02.strlen.c)
+- [strcmp](https://github.com/moeyg/C-Workspace/blob/main/Note/10.string/03.strcmp.c)
+- [strcpy](https://github.com/moeyg/C-Workspace/blob/main/Note/10.string/04.strcpy.c)
+- [strncpy](https://github.com/moeyg/C-Workspace/blob/main/Note/10.string/05.strncpy.c)
+- [strcat](https://github.com/moeyg/C-Workspace/blob/main/Note/10.string/06.strcat.c)
+- [strncat](https://github.com/moeyg/C-Workspace/blob/main/Note/10.string/07.strncat.c)
+- [strstr](https://github.com/moeyg/C-Workspace/blob/main/Note/10.string/08.strstr.c)
+- [strtok](https://github.com/moeyg/C-Workspace/blob/main/Note/10.string/09.strtok.c)
