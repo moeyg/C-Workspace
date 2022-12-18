@@ -1,20 +1,21 @@
 // String copy
+// dest가 src 보다 길이가 짧으면 src의 내용을 덮어쓰기 위해 소유하지 않은 메모리에 덮어쓴다.
 
 #include <stdio.h>
 
-void ft_strcpy(char* dest, const char* src);
+void strcpy_func(char* dest, const char* src);
 
 int main(void)
 {
     char dest[5];
     const char* src = "Hello world";
 
-    ft_strcpy(dest, src);
+    strcpy_func(dest, src);
 
     printf("%s\n", dest);
 }
 
-void ft_strcpy(char* dest, const char* src)
+void strcpy_func(char* dest, const char* src)
 {
     while (*src != '\0')
     {
