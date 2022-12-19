@@ -116,3 +116,18 @@ C 정리 목차 입니다.
 - [strncat](https://github.com/moeyg/C-Workspace/blob/main/Note/10.string/07.strncat.c)
 - [strstr](https://github.com/moeyg/C-Workspace/blob/main/Note/10.string/08.strstr.c)
 - [strtok](https://github.com/moeyg/C-Workspace/blob/main/Note/10.string/09.strtok.c)
+
+<br>
+
+## 11. [Output](https://github.com/moeyg/C-Workspace/tree/main/Note/11.Output)
+
+- [formatted output](https://github.com/moeyg/C-Workspace/blob/main/Note/11.Output/01.formatted_output.c)
+- [printf](https://github.com/moeyg/C-Workspace/blob/main/Note/11.Output/02.printf.c)
+- [formatted string](https://github.com/moeyg/C-Workspace/blob/main/Note/11.Output/03-1.formatted_string.c)
+- [format specifier](https://github.com/moeyg/C-Workspace/blob/main/Note/11.Output/03-2.format_specifier.c)
+- [width](https://github.com/moeyg/C-Workspace/blob/main/Note/11.Output/03-3.width.c)
+- [flag](https://github.com/moeyg/C-Workspace/blob/main/Note/11.Output/03-4.flag.c)
+- [precision](https://github.com/moeyg/C-Workspace/blob/main/Note/11.Output/03-5.precision.c)
+- [length modifier](https://github.com/moeyg/C-Workspace/blob/main/Note/11.Output/03-6.length_modifier.c)
+- `code` : [byte conversion chart](https://github.com/moeyg/C-Workspace/tree/main/Note/11.Output/byte_conversion_chart)
+- `code` : [print ascii table](https://github.com/moeyg/C-Workspace/tree/main/Note/11.Output/print_ascii_table)
