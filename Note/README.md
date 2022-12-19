@@ -129,5 +129,7 @@ C 정리 목차 입니다.
 - [flag](https://github.com/moeyg/C-Workspace/blob/main/Note/11.Output/03-4.flag.c)
 - [precision](https://github.com/moeyg/C-Workspace/blob/main/Note/11.Output/03-5.precision.c)
 - [length modifier](https://github.com/moeyg/C-Workspace/blob/main/Note/11.Output/03-6.length_modifier.c)
+- [fprintf](https://github.com/moeyg/C-Workspace/blob/main/Note/11.Output/04.fprintf.c)
+- [sprintf](https://github.com/moeyg/C-Workspace/blob/main/Note/11.Output/05.sprintf.c)
 - `code` : [byte conversion chart](https://github.com/moeyg/C-Workspace/tree/main/Note/11.Output/byte_conversion_chart)
 - `code` : [print ascii table](https://github.com/moeyg/C-Workspace/tree/main/Note/11.Output/print_ascii_table)
