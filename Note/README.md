@@ -25,7 +25,7 @@ C 정리 목차 입니다.
 - [function](https://github.com/moeyg/C-Workspace/blob/main/Note/03.Function/01.function.c)
 - [sequence point - 1](https://github.com/moeyg/C-Workspace/blob/main/Note/03.Function/02-1.sequence_point.c)
 - [sequence point - 2](https://github.com/moeyg/C-Workspace/blob/main/Note/03.Function/02-2.sequence_point.c)
-- [sequence point - 3](https://github.com/moeyg/C-Workspace/blob/main/Note/03.Function/02-3.sequence_point.c)
+- [sequence point - 3 (Short circuit)](https://github.com/moeyg/C-Workspace/blob/main/Note/03.Function/02-3.sequence_point.c)
 - [scope](https://github.com/moeyg/C-Workspace/blob/main/Note/03.Function/03.scope.c)
 - [goto](https://github.com/moeyg/C-Workspace/blob/main/Note/03.Function/04.goto.c)
 
@@ -133,3 +133,17 @@ C 정리 목차 입니다.
 - [sprintf](https://github.com/moeyg/C-Workspace/blob/main/Note/11.Output/05.sprintf.c)
 - `code` : [byte conversion chart](https://github.com/moeyg/C-Workspace/tree/main/Note/11.Output/byte_conversion_chart)
 - `code` : [print ascii table](https://github.com/moeyg/C-Workspace/tree/main/Note/11.Output/print_ascii_table)
+
+<br>
+
+## 12. Input
+
+- [input]()
+- [getchar]()
+- `code` : [print whitespace stat]()
+- [gets]()
+- [fgets]()
+- [scanf - 1]()
+- [scanf - 2. Example]()
+- [scanf - 3. scanf() problems and solutions when reading char]()
+- `code` : [match history.io]()
