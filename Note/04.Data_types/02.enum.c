@@ -18,7 +18,8 @@ int main(void)
         DAY_SUNDAY,
     };
 
-    enum month
+    // typedef 사용
+    typedef enum month
     {
         MONTH_JAN,
         MONTH_FEB,
@@ -32,10 +33,10 @@ int main(void)
         MONTH_OCT,
         MONTH_NOV,
         MONTH_DEC,
-    };
+    } month_t;
 
     enum day what_day_is_today = DAY_WEDNESDAY;
-    enum month what_month_is_now = MONTH_NOV;
+    month_t what_month_is_now = MONTH_NOV;
 
     printf("%d\n", what_day_is_today); // 2
     printf("%d\n", what_month_is_now); // 10
