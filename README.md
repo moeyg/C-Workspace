@@ -1,8 +1,4 @@
-# C Note List
-
-C 정리 목차 입니다.
-
-<br>
+# C-Workspace
 
 ## 1. [Variable](https://github.com/moeyg/C-Workspace/tree/main/Note/01.Variable)
 
